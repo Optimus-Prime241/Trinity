@@ -53,7 +53,7 @@ Responsibility transfers entirely to the receiving party once data leaves the us
 ## 6. Data Retention
 Scan results may be transmitted to and stored within Discord servers via webhooks configured by the user or league.
 
-Cod may view or analyze scan data for purposes such as debugging, support, improving detection accuracy, or investigating software issues. Cod does not make enforcement decisions, issue penalties, or take disciplinary action based on scan data.
+Cod may view or analyze scan data for purposes such as debugging, support, improving detection accuracy, or investigating software issues. 
 
 All decisions regarding interpretation, storage, retention, sharing, or enforcement actions based on scan results are the sole responsibility of the league, organization, or third party receiving the data.
 
