@@ -23,7 +23,7 @@ Trinity does not collect:
 - passwords
 - private messages
 - payment information
-- 
+
 ---
 
 ## 3. Local Processing
