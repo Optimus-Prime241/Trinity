@@ -29,12 +29,14 @@ Trinity does not collect:
 ## 3. Local Processing
 All scanning is performed locally on the user’s device.
 
-Scan results are only exported, shared, or uploaded if the user explicitly chooses to do so.
+Scan results are only exported, shared, or uploaded to the users' channel.
+
+Cod is not liable for where users share and export the data to.
 
 ---
 
 ## 4. Data Transmission
-Trinity may transmit scan results to third-party services (such as Discord) if configured or enabled by the user.
+Trinity may transmit scan results to third-party services.
 
 Any data transmitted through such services is subject to the privacy policies and data handling practices of those third parties. Cod does not control or manage how third-party services store or retain this data.
 ---
