@@ -5,7 +5,7 @@
 **Contact:** Discord — 6b75736872  
 **Last Updated:** 1/14/2026
 
-By installing, accessing, or using Trinity (“Software”), you agree to this End User License Agreement. If you do not agree, do not use the Software.
+By installing, accessing, or using Trinity, you agree to this End User License Agreement. If you do not agree, do not use the Software.
 
 ---
 
